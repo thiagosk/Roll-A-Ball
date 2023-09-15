@@ -6,6 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: d4555e9b590d82f4fa55d8aaa47d0288
+  - enabled: 1
     path: Assets/Scenes/Minigame.unity
     guid: f8e277aaac20abd49a5669a57a4f715e
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 067c1a6379dcbbc49a9449cabe80c39e
+  - enabled: 1
+    path: Assets/Scenes/MenuWon.unity
+    guid: 68e7b8f5860bd5d41a17b335716a43df
+  - enabled: 1
+    path: Assets/Scenes/MenuLose.unity
+    guid: b299dd6e11c9cea419e3011b924918cb
   m_configObjects: {}
